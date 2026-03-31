@@ -104,3 +104,5 @@ The skill avoids aggressive merges.
 - `快速发送`：适合快速备份或轻量分享
 - `继续工作（推荐）`：最适合跨设备续写
 - `完整迁移`：最接近本地原生会话恢复
+
+Repository owner note: maintained under the Loqi999 GitHub account.
